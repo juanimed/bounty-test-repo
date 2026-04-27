@@ -1,4 +1,4 @@
 def suma(a, b):
-    return a - b # Bug intencional
+    return a + b
 
 print(suma(2, 2))
